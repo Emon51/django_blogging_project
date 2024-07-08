@@ -8,7 +8,7 @@ Created a personal blogging platform. Where visitors can see my site and read my
     
 
 - **Security:**
-  - Only I'm(Admin) able to manage this site(e.g., add, update and delete post)
+  - Only I'm(Admin) able to manage this site(e.g., add, update and delete post).
 
 
 
@@ -21,6 +21,6 @@ Created a personal blogging platform. Where visitors can see my site and read my
 
 ## Clone this project
    ```
-   git clone https://github.com/emon51/django_portfolio_project.git
+   git clone https://github.com/emon51/django_blogging_project.git
    ```
 
